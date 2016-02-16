@@ -1,0 +1,38 @@
+@import "boxtop.css";
+@import "boxcenter.css";
+@import "boxbottom.css";
+
+	
+body {
+	height: 950px;
+	width: 1366px;
+	background-color: white;
+	margin: 0px;
+} 
+
+a{
+text-decoration: none;
+}
+
+.toplist {
+	color: white;
+}
+	
+.list {
+	height: 940px;
+    width: 1066px;
+   	background-color: white;
+	margin-left: 166px;
+	margin-top: 0px;
+	box-shadow: 0 0 5px #cccccc;
+}
+
+.fitness {
+	font-family: sans-serif;
+	font-size: 40px;
+	height: 130;
+	width: 1050px;
+	padding: 50px 875px 40px 45px;
+}
+
+

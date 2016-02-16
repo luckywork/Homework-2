@@ -1,0 +1,48 @@
+.bottom {
+	height: 40px;
+	width: 144px;
+	font-family: cursive;
+	font-size: 15px;
+	color: black;
+	vertical-align: middle;
+	padding-left: 24px;
+	background-color: #cccccc;
+
+}
+
+.bottom1 {
+	height: 40px;
+	width: 100px;
+	font-family: cursive;
+	font-size: 15px;
+	text-decoration: underline;
+	color: black;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #cccccc;
+
+	
+	}
+
+.bottom2 {
+	height: 40px;
+	width: 100px;
+	font-family: cursive;
+    text-align: right;
+	vertical-align: middle;
+	font-size: 15px;
+	color: black;	
+	vertical-align: middle;
+	background-color: #cccccc;
+}
+
+.bottom3 {
+	padding-left: 65px;
+	height: 40px;
+	width: 237px;
+	font-family: cursive;
+	vertical-align: middle;
+	font-size: 15px;
+	color: black;
+	background-color: #cccccc;
+	}

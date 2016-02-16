@@ -1,0 +1,56 @@
+.marg{
+	margin: 40px 0px 0px 45px;}
+
+.top {
+	height: 40px;
+	width: 144px;
+	font-family: cursive;
+	font-size: 15px;
+	color: white;
+	vertical-align: middle;
+	padding-left: 24px;
+	border-right: 2px solid #999999;
+	font-weight: bold;
+	background-image: linear-gradient(#666666, #333333);
+
+}
+
+.top1 {
+	height: 40px;
+	width: 100px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #333333;
+	border-right: 2px solid #999999;
+	font-weight: bold;
+	}
+
+.top2 {
+	height: 40px;
+	width: 100px;
+	font-family: 'Open Sans', sans-serif;
+    text-align: right;
+	vertical-align: middle;
+	font-size: 15px;
+	color: white;	
+	vertical-align: middle;
+/*	background-color: #666666;*/
+	font-weight: bold;
+	background-image: linear-gradient(#666666, #333333);
+}
+
+.top3 {
+	padding-left: 65px;
+	height: 40px;
+	width: 535px;
+	font-family: 'Open Sans', sans-serif;
+	vertical-align: middle;
+	font-size: 15px;
+	color: white;
+/*	background-color: #666666;*/
+	font-weight: bold;
+	background-image: linear-gradient(#666666, #333333);
+	}
